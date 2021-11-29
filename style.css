@@ -129,7 +129,7 @@ body{
     width: 286px;
     position: absolute;
     height: 314px;
-    
+    display: none;
     z-index: 1;
     margin-left: -1px;
     margin-top: -1px;
